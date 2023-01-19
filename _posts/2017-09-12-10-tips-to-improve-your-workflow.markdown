@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Tips To Improve Your Workflow
+title: Professional Qualities
 date: 2017-09-12 00:00:00 +0300
 description: Student Oriented Personal and Professional Qualities
 img: workflow.jpg # Add image post (optional)
