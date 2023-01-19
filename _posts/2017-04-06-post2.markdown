@@ -8,8 +8,6 @@ img:  # Add image post (optional)
 ## Education: 
 Mr. Nguyen completed his Ed D from St Mary’s University of Minnesota in 2007.   The education he received has provided him opportunities to explore a variety of educational philosophies and helped him develop his own based on current research and practices, supplemented by his personal experiences.  The success he has with students as he practices what he learns.  This is where Francois excels, education backed by real life experiences.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
